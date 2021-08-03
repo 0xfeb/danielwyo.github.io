@@ -1,4 +1,4 @@
-APassword隐私政策
+        APassword隐私政策
 
 1.适用范围
   所有使用APassword的用户。
@@ -9,5 +9,5 @@ APassword隐私政策
 4.敏感权限
   APassword可以加密保存图片，所有会申请授权“拍照权限”和“图片的读写权限”。在没有授权的情况，APassword依然可以运行，但是无法保存图片。
 
-APassword开发团队：姚顾波/王渊鸥
+                                        APassword开发团队：姚顾波/王渊鸥
        
